@@ -1,5 +1,4 @@
 # configuration environnement 
-.env*
 devenv
 
 # Django 
