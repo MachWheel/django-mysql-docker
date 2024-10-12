@@ -14,6 +14,3 @@ mysql
 
 # prod files
 staticfiles
-
-# Ne pas ignorer ces fichiers
-!.env.dev-exemple

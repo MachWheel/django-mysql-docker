@@ -2,7 +2,7 @@
 
 ## Installation for dev
 
-1. Copy `.env.dev.exemple` to `.env.dev` and edit values.
+1. Open `.env.dev` and edit values.
 
 ```bash
 DEBUG=1
@@ -23,5 +23,3 @@ SQL_HOST=db
 3. Create superuser : `docker exec -it django-web python manage.py createsuperuser`
 
 4. Visit `http://localhost:8000` or `http://localhost:8000/admin`
-
-![](https://i.imgur.com/Ty9B6xa.png)
